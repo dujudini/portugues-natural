@@ -43,6 +43,24 @@ Textos de IA em português quase sempre carregam vícios importados do inglês (
 
 16. **Não repita o mesmo molde sintático para listar dados.** IA gosta de listar pontos de uma série sempre na mesma forma gramatical, trocando só o dado: "Tomando às 7h, a energia caía às 14h. Adiando para as 10h, o pico durou até a tarde." Mesmo sem repetir palavra, a estrutura idêntica (gerúndio + vírgula + resultado, ou "Em [ano], X. Em [ano], Y.") entrega o texto como gerado — é a mesma lógica da repetição em escadinha (regra 12), só que na sintaxe, não no léxico. Varie a construção de cada frase da série, mesmo contando fatos parecidos.
 
+## Traços de Texto Humano
+
+Tirar vício não basta. Um texto sem nenhum tique de IA ainda pode soar gerado por ser arrumado demais: cada parágrafo com uma função, frases do mesmo tamanho, nenhuma palavra inesperada. Depois de limpar, acrescente o que texto de gente tem.
+
+17. **Ritmo irregular de verdade.** Não é alternar curta e longa num padrão previsível. É ter uma frase de três palavras perto de outra com quarenta, cheia de subordinada, e parágrafos de tamanhos bem diferentes. Um parágrafo pode ter uma linha só.
+
+18. **Detalhe específico e meio aleatório.** IA escolhe o exemplo mais típico ("o café da manhã", "uma reunião importante"). Gente cita o detalhe que viveu: o nome da padaria, o número quebrado (R$ 37,90, não "cerca de R$ 40"), a hora exata, o objeto fora de contexto. Prefira o concreto e o improvável ao genérico e representativo. Mas não empilhe: três ou quatro detalhes sensoriais na mesma frase ("papel A4, fita crepe, caneta azul, meio torto") soam montados pra parecer autênticos. Concentre o detalhe em um ou dois pontos do texto e deixe o resto mais vago, do jeito que a memória funciona ("sei lá, umas sete e pouco").
+
+19. **Registro de quem fala português.** Quando o contexto permite, use o português de verdade: "pra", "tá", "a gente", "aí", "meio que", começar frase com "E" ou "Mas". IA escreve no registro neutro de manual mesmo em texto informal. Ajuste ao canal: e-mail pro chefe não é post de Instagram, mas nenhum dos dois é redação do Enem.
+
+20. **Palavra menos óbvia.** Em alguns pontos do texto, troque a palavra mais provável por outra igualmente correta e menos previsível: um verbo mais concreto, uma expressão regional, uma imagem própria. Sem exagero: a troca tem que soar como escolha de alguém, não como sinônimo tirado do dicionário.
+
+21. **Deixe uma aresta.** Texto humano tem uma digressão curta, um comentário entre parênteses, uma opinião que ninguém pediu, uma dúvida que fica sem resposta. Nem todo parágrafo precisa servir ao argumento principal, e o texto não precisa amarrar tudo no final. Cuidado pra aresta não virar fórmula: a confissão no fim ("pra ser sincero, nem era tão bom assim") e a frase curta de fechamento ("É pior.") também são recursos que IA usa pra simular voz pessoal. Se a aresta está sempre no último parágrafo, ela deixou de ser aresta.
+
+22. **Repita em vez de caçar sinônimo.** IA troca "carro" por "veículo" e depois por "automóvel" pra não repetir. Gente repete "carro" três vezes sem culpa. Use o sinônimo só quando ele diz algo diferente.
+
+23. **Não construa um arco perfeito.** IA organiza até texto curto como roteiro: descoberta, lembrança, explicações, reflexão final, cada parágrafo entregando exatamente o efeito que a próxima etapa precisa. Personagens e exemplos aparecem só pra cumprir função (um dá uma hipótese, outro dá a segunda, o narrador fecha com a terceira, e aí vira grupo de três). Gente escreve fora de ordem, explica demais uma coisa sem importância e de menos a importante, esquece de fechar um fio. Deixe algo sem explicação e algum trecho que não leve a lugar nenhum.
+
 ## Verificação Rápida
 
 Antes de entregar o texto, revise:
@@ -67,6 +85,18 @@ Antes de entregar o texto, revise:
 - Frases curtas repetindo a mesma abertura em sequência ("Você não precisa de..." três vezes)? Deixe só uma, se fizer sentido.
 - Estrutura "Sem X. Sem Y. Só Z."? Reescreva em prosa normal.
 - "Em conexão com / associado a / relacionado a / no contexto de" no lugar de um verbo ou preposição direta? Nomeie a relação real.
+
+Depois de limpar, confira se o texto tem traços humanos:
+
+- Os parágrafos têm tamanhos bem diferentes? Tem pelo menos uma frase muito curta e uma bem longa?
+- Tem algum detalhe específico (nome, número quebrado, hora, lugar) em vez de só exemplos genéricos?
+- O registro combina com o canal, ou está em português de manual num texto que pedia informalidade?
+- Tem alguma palavra ou expressão que não seria a escolha mais óbvia?
+- Tem alguma aresta (comentário lateral, opinião, dúvida em aberto), ou está tudo amarradinho?
+- Trocou uma palavra por sinônimo só pra não repetir? Volte pra palavra original.
+- Algum trecho empilha três ou mais detalhes sensoriais seguidos? Deixe um ou dois e solte o resto.
+- A aresta (confissão, frase curta de efeito, ressalva pessoal) caiu no último parágrafo? Mude de lugar ou corte.
+- Cada parágrafo cumpre uma etapa de um arco limpo, e cada personagem ou exemplo existe só pra entregar uma peça? Bagunce: deixe algo sem explicar, um fio solto, um trecho que não serve ao arco.
 
 ## Exemplos
 

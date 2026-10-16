@@ -13,6 +13,8 @@ A skill entra em ação sempre que você (ou o Claude) for escrever, editar ou r
 - Padrões tipográficos reconhecíveis (Título Com Cada Palavra Maiúscula, "A verdade? ...", "Sem X. Sem Y. Só Z.")
 - Preposições de conexão vaga ("em conexão com", "associado a")
 
+Depois de limpar os vícios, ela acrescenta traços de texto humano: ritmo irregular, detalhe específico em vez de exemplo genérico, registro coloquial quando o canal permite, palavras menos previsíveis e alguma aresta (um comentário lateral, uma opinião, uma dúvida que fica em aberto).
+
 ## O que essa skill não faz
 
 O objetivo aqui é só fazer o texto soar como se uma pessoa tivesse escrito, para quem lê. Não é driblar detector de IA.
